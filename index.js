@@ -57,3 +57,6 @@ const checkFunc = () => {
 skipbtn.addEventListener("click", startGame);
 checkbtn.addEventListener("click", checkFunc);
 
+
+//123-test
+
